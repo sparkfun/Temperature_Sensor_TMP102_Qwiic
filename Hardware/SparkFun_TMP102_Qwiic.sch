@@ -17407,9 +17407,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 &lt;ul&gt;
 &lt;li&gt;TMP102&lt;/li&gt;
 &lt;/ul&gt;</description>
-<wire x1="-0.6" y1="-0.8635" x2="0.6" y2="-0.8635" width="0.127" layer="21"/>
-<wire x1="-0.6" y1="0.8635" x2="0.6" y2="0.8635" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="1.0318" x2="0.2" y2="1.0318" width="0.127" layer="21"/>
+<wire x1="-0.6" y1="-0.8635" x2="0.6" y2="-0.8635" width="0.2032" layer="21"/>
+<wire x1="-0.6" y1="0.8635" x2="0.6" y2="0.8635" width="0.2032" layer="21"/>
+<wire x1="-0.2" y1="1.1" x2="0.2" y2="1.1" width="0.2032" layer="21"/>
 <smd name="5" x="0.776415625" y="0.003303125" dx="0.24891875" dy="0.508" layer="1" rot="R270"/>
 <smd name="2" x="-0.8" y="0.003303125" dx="0.24891875" dy="0.508" layer="1" rot="R270"/>
 <smd name="3" x="-0.8" y="-0.505840625" dx="0.24891875" dy="0.508" layer="1" rot="R270"/>
@@ -21018,6 +21018,7 @@ disconnect PWR LED</text>
 <wire x1="142.24" y1="81.28" x2="248.92" y2="81.28" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="142.24" y1="185.42" x2="142.24" y2="81.28" width="0.2032" layer="97" style="shortdash"/>
 <wire x1="76.2" y1="81.28" x2="76.2" y2="0" width="0.2032" layer="97" style="shortdash"/>
+<text x="165.862" y="11.176" size="2.54" layer="94" font="vector">Alex Wende</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>

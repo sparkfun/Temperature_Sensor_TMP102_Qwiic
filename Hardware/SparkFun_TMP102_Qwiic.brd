@@ -1788,9 +1788,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 &lt;ul&gt;
 &lt;li&gt;TMP102&lt;/li&gt;
 &lt;/ul&gt;</description>
-<wire x1="-0.6" y1="-0.8635" x2="0.6" y2="-0.8635" width="0.127" layer="21"/>
-<wire x1="-0.6" y1="0.8635" x2="0.6" y2="0.8635" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="1.0318" x2="0.2" y2="1.0318" width="0.127" layer="21"/>
+<wire x1="-0.6" y1="-0.8635" x2="0.6" y2="-0.8635" width="0.2032" layer="21"/>
+<wire x1="-0.6" y1="0.8635" x2="0.6" y2="0.8635" width="0.2032" layer="21"/>
+<wire x1="-0.2" y1="1.1" x2="0.2" y2="1.1" width="0.2032" layer="21"/>
 <smd name="5" x="0.776415625" y="0.003303125" dx="0.24891875" dy="0.508" layer="1" rot="R270"/>
 <smd name="2" x="-0.8" y="0.003303125" dx="0.24891875" dy="0.508" layer="1" rot="R270"/>
 <smd name="3" x="-0.8" y="-0.505840625" dx="0.24891875" dy="0.508" layer="1" rot="R270"/>
@@ -6311,8 +6311,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <signal name="N$13">
 <contactref element="JP3" pad="3"/>
 <contactref element="R1" pad="1"/>
-<wire x1="14.732" y1="17.399" x2="14.732" y2="17.145" width="0.2032" layer="16"/>
-<wire x1="13.716" y1="17.145" x2="14.732" y2="17.145" width="0.2032" layer="16"/>
+<wire x1="13.716" y1="17.145" x2="14.478" y2="17.145" width="0.2032" layer="16"/>
+<wire x1="14.478" y1="17.145" x2="14.732" y2="17.399" width="0.2032" layer="16"/>
 <via x="14.732" y="17.399" extent="1-16" drill="0.381"/>
 <wire x1="14.732" y1="17.399" x2="13.462" y2="17.399" width="0.2032" layer="1"/>
 <wire x1="13.462" y1="17.399" x2="13.462" y2="17.36" width="0.2032" layer="1"/>
@@ -6320,8 +6320,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <signal name="N$14">
 <contactref element="JP3" pad="1"/>
 <contactref element="R2" pad="1"/>
-<wire x1="11.684" y1="17.145" x2="10.795" y2="17.145" width="0.2032" layer="16"/>
-<wire x1="10.795" y1="17.145" x2="10.795" y2="17.399" width="0.2032" layer="16"/>
+<wire x1="11.684" y1="17.145" x2="11.049" y2="17.145" width="0.2032" layer="16"/>
+<wire x1="11.049" y1="17.145" x2="10.795" y2="17.399" width="0.2032" layer="16"/>
 <via x="10.795" y="17.399" extent="1-16" drill="0.381"/>
 <wire x1="10.795" y1="17.399" x2="11.938" y2="17.399" width="0.2032" layer="1"/>
 <wire x1="11.938" y1="17.399" x2="11.938" y2="17.36" width="0.2032" layer="1"/>
@@ -6456,7 +6456,6 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <approved hash="19,16,febbe736b375fc3c"/>
 <approved hash="19,16,a392a28eecb2edae"/>
 <approved hash="19,16,e8f1c75dfaca11b9"/>
-<approved hash="19,16,d5ba7b3bed06875b"/>
 <approved hash="19,16,6cc7a505db93aa6b"/>
 <approved hash="19,16,a686a849b475baba"/>
 <approved hash="19,16,18071f9f5d726e6a"/>
@@ -6464,6 +6463,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <approved hash="19,16,e081b2364ed059f7"/>
 <approved hash="19,16,b3a7b0bd77aa3120"/>
 <approved hash="19,16,36b83145c979ce84"/>
+<approved hash="19,16,b3dce06b4e9b0713"/>
 </errors>
 </board>
 </drawing>
