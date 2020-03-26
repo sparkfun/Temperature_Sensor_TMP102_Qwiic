@@ -1,10 +1,10 @@
-Digital_Temperature_Sensor_Breakout_-_TMP102
+SparkFun Digital Temperature Sensor - TMP102 (Qwiic)
 ============================================
 
-[![Part Name](https://dlnmh9ip6v2uc.cloudfront.net//images/products/1/1/9/3/1/11931-01.jpg)  
-*Digital Temperature Sensor Breakout - TMP102 (SEN-11931)*](https://www.sparkfun.com/products/11931)
+[![SparkFun Digital Temperature Sensor - TMP102 (Qwiic)](https://cdn.sparkfun.com/r/500-500/assets/parts/1/5/0/0/7/16304-SparkFun_Digital_Temperature_Sensor_-_TMP102__Qwiic_-01.jpg)  
+*SparkFun Digital Temperature Sensor - TMP102 (Qwiic) (SEN-16304)*](https://www.sparkfun.com/products/16304)
 
-Breakout board for TMP102 digital temperature sensor [The datasheet can be found here.](https://www.sparkfun.com/datasheets/Sensors/Temperature/tmp102.pdf)
+Qwiic enabled breakout board for TMP102 digital temperature sensor [The datasheet can be found here.](https://www.sparkfun.com/datasheets/Sensors/Temperature/tmp102.pdf)
 
 This board was created in Eagle v6.4.0. 
 
@@ -15,7 +15,11 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd and .sch)
 * **/Production** - Production panel files
 
-
+Documentation
+--------------
+* **[Library](https://github.com/sparkfun/SparkFun_TMP102_Arduino_Library)** - Arduino library for the SparkFun Digital Temperature Sensor - TMP102 (Qwiic).
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-digital-temperature-sensor---tmp102-hookup-guide)** - Basic hookup guide for the SparkFun Digital Temperature Sensor - TMP102 (Qwiic).
+  
 License Information
 -------------------
 The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
